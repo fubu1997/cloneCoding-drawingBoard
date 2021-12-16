@@ -31,6 +31,13 @@ body {
 
 .controls {
   margin-top: 80px;
+  margin-bottom: 50px;
+}
+
+.controls__range,
+.controls__btns {
+  margin-bottom: 30px;
+  text-align: center;
 }
 
 .controls .controls__colors {
